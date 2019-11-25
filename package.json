@@ -1,0 +1,20 @@
+{
+  "name": "knowledge_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.5"
+  },
+  "dependencies": {
+    "chromedriver": "^78.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
